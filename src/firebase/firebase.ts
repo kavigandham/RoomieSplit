@@ -4,13 +4,13 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDuHukHMmtejxzb4uRyjANsVG4iNrGSvWk",
-  authDomain: "roomiesplit-ac0da.firebaseapp.com",
-  projectId: "roomiesplit-ac0da",
-  storageBucket: "roomiesplit-ac0da.firebasestorage.app",
-  messagingSenderId: "228503123827",
-  appId: "1:228503123827:web:6cc7c262465a09e5c57706",
-  measurementId: "G-QLY5QLE6BG"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "p",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
